@@ -1,1 +1,1 @@
-# assinaturaconteudokadu
+# assinaturaconteudo
